@@ -38,6 +38,9 @@ And lately, the avs-finalizer,
 ```bash
 make start-avs-finalizer
 ```
+```bash
+sudo apt update && sudo apt upgrade -y
+```
 
 
 ## Avs Task Description
